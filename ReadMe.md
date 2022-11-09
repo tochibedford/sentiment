@@ -2,7 +2,7 @@
 
 ## Tochi Bedford
 
-With this script I've writtern you can pass in an arbitrary number of files to perform sentiment analysis on and it will print out the results on the terminal. This script can be repurposed for Branbox's task
+With this script I've written you can pass in an arbitrary number of files to perform sentiment analysis on and it will print out the results on the terminal. This script can be repurposed for Branbox's task
 
 - Clone this repo
 - Change working directory into to be inside of your clone `cd path/to/cloned/repo`
